@@ -1,6 +1,6 @@
 # SwiftNewsDemo
 ### 11月4日练习
-* 练习了类似于新闻类App中预览点击展开的功能</br>
+* 练习了类似于新闻类App中预览点击展开的功能，新闻来源[懂球帝](http://www.dongqiudi.com/)</br>
 
 笔记：</br>
 beganUpdates 和 endUpdates 的组合使用</br>
